@@ -6,10 +6,11 @@ title: Computer Science Projects
 
 - Implementation of efficient oblivious IntArray and Stack data structures in EMP. 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Implementing stack functionality in secure computation is nuanced.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A naive MPC implementation of stack requires access time linear in the
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Implementing stack functionality in secure computation is nuanced. A
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;naive MPC implementation of stack requires access time linear in the
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;maximum size of the stack N (i.e. entire encrypted stack container must
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;be scanned). We implement a much better approach, with access cost O(log N ). Read the write-up for more information.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;be scanned). We implement a much better approach, with access cost O(log 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;N ). Read the write-up for more information.
     
 Link to project in Github [here](https://github.com/katkolesnikova/EMP-projects)
 
