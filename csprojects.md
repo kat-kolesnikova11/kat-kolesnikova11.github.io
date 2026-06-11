@@ -12,8 +12,8 @@ title: Computer Science Projects
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;be scanned). We implement a much better approach, with access cost O(log 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;N ). Read the write-up for more information.
     
-Link to project in Github [here](https://github.com/katkolesnikova/EMP-projects)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Link to project in Github [here](https://github.com/katkolesnikova/EMP-projects)
 
-Link to project writeup [here](https://katkolesnikova.github.io/obstackpaper)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Link to project writeup [here](https://katkolesnikova.github.io/obstackpaper)
     
 - Web server implemented in assembly. This webserver can accept multiple connections at a time, as it has a forking process, and it supports both reading and writing to files. Code written in 2024.  Link to Github [here](https://github.com/katkolesnikova/Assembly-Web-Server)
