@@ -9,6 +9,7 @@ published: true
 
 This website is a work in progress! Please check back for updates.
 poopy poop poop (delete this)
+what the freak why is it not updating
 ### About Me:
 
 Grade: 9th
